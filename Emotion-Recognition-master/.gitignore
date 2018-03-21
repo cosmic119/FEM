@@ -1,0 +1,7 @@
+*.csv
+*.npy
+*.jpg
+*.jpeg
+*.pyc
+*.hdf5
+.idea
