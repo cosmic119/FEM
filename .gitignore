@@ -3,4 +3,5 @@ slim/datasets/facialExpression(2)/
 slim/datasets/flowers/
 cnn_tutorial/MNIST_data/
 custom_cnn_model/datasets/
-
+custom_cnn_model/fer2013.csv
+Emotion_Recognition_master/data/fer2013.csv
